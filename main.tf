@@ -5,6 +5,5 @@ module "ec2" {
   version = "1.0.2"
 
   aws_key = "AKIAJPARU4UIFB3QLIDA"
-  aws_secret = "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"
   ssh_key = "General-playground"
 }
